@@ -957,6 +957,11 @@ strong {
   padding-left: 20px;
 }
 
+.sprint-footer {
+  font-size: 40px;
+  background-color: #400064;
+}
+
 .copyright-text {
   font-size: var(--copyright-font-size);
 }
