@@ -222,8 +222,12 @@ This project demonstrates Git operations like clone, pull, push, PR—a hands-on
 ---
 
 ---
-Footer :  <footer >
+Footer :  
+```
+<footer >
     <p class="sprint-footer">Mini Finance v1.0  — Deployed on 02-09-2025 — By Gautam K rev: 6d537de</p>
-  </footer>
+</footer>
+```
+
 ---
 See you in the **LinkedIn network!** 🎉
