@@ -221,4 +221,9 @@ Once you've made your LinkedIn post:
 This project demonstrates Git operations like clone, pull, push, PR—a hands-on Mini-Finance tool.
 ---
 
+---
+Footer :  <footer >
+    <p class="sprint-footer">Mini Finance v1.0  — Deployed on 02-09-2025 — By Gautam K rev: 6d537de</p>
+  </footer>
+---
 See you in the **LinkedIn network!** 🎉
